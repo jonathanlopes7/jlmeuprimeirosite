@@ -1,5 +1,6 @@
 body {
     background-image: url("../ss.jpg");
+    background-size: auto 100vh
         font-family: Arial;
     height: 100vh
    }
